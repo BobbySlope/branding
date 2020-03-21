@@ -42,6 +42,9 @@ Homebridge logos can be found here: [logos](./logos).
 
 [Purple Gradient + "Homebridge" - PNG](./logos/homebridge-logo-gradient-named.png)
 
+## Verified Plugins Sample Readme
+You may use the Homebridge logo in your plugin README. Here are some guidelines to make give your plugin an unified Hombridge look. The Sample Readme Header Part can be found here: [Sample Readme](./SAMPLEREADME).
+
 ## Community
 
 ### Discord
